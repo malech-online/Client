@@ -1782,5 +1782,3 @@
 2945 mesh\\aandbsword01.msa
 2946 mesh\\aandbaxe01.msa
 2947 mesh\\aandshield01.msa
-
-2948 mesh\\bstaff02.msa

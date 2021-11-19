@@ -22,7 +22,7 @@ FFFFAA << Destrave do level 40 >>
 FFFFFF 
 FFFFFF Como destravar o personagem celestial level 40?
 FFFFFF É bem simples, você deve ir até o
-FFFFFF Alquimista Odin no continente desconhecido.
+AAFFFF NPC Alquimista Odin no continente desconhecido
 AAFFFF Coordenadas :  X: 3236 Y: 1690
 FFFFFF 
 FFFFFF Itens requeridos:
@@ -41,18 +41,18 @@ FFFFFF
 FFFFAA << Destrave do level 90 >>
 FFFFFF 
 FFFFFF Como destravar o personagem celestial level 90?
-FFFFFF Você irá precisar dos seguintes itens:
+FFFFFF É bem simples, você irá precisar dos seguintes itens:
 FFFFFF Pedra da Fúria
 FFFFFF 500 pontos de fama
 FFFFFF 
 FFFFFF Dica: A Pedra da Fúria pode ser criada no 
-FFFFFF Alquimista Odin no continente desconhecido.
+AAFFFF NPC Alquimista Odin no continente desconhecido
 AAFFFF Coordenadas : X: 3236 Y: 1690 
 FFFFFF 
-FFFFFF Runas requeridas: Sowilo, Kenaz, Uraz, Thurisaz,
-FFFFFF Isa, Tiwaz e Hagalaz
+FFFFFF Runas requeridas: Sowilo, Kenaz, Uraz, Thurisaz, Isa, Tiwaz, 
+FFFFFF Hagalaz
 FFFFFF 
-FFFFFF Você pode obter fama com o Selo do Guerreiro 
+FFFFFF Você pode obter fama com o item Selo do Guerreiro a venda no
 AAFFFF NPC Farche em Erion 
 AAFFFF Coordenadas : X: 2467 Y: 2004
 FFFFFF ou
@@ -81,15 +81,15 @@ FFFFFF
 FFFFAA << Destrave do level 240 >>
 FFFFFF 
 FFFFFF Como destravar o personagem celestial level 240?
-FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
 FFFFFF 
-FFFFFF O item pode ser criado no NPC Dedekinto.
-AAFFFF O NPC se encontra no continente desconhecido.
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
 AAFFFF coordenadas : X: 3229 Y: 1697
 FFFFFF 
-FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
 FFFFFF Item da combinação do selo: Proteção Divina
-FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
 FFFFFF Combinação do selo (2): The Devil Whisper  
 FFFFFF (Use com o botão direito do mouse)
 FFFFFF 
@@ -101,15 +101,15 @@ FFFFFF
 FFFFAA << Destrave do level 280 >>
 FFFFFF 
 FFFFFF Como destravar o personagem celestial level 280?
-FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
 FFFFFF 
-FFFFFF O item pode ser criado no NPC Dedekinto.
-AAFFFF O NPC se encontra no continente desconhecido.
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
 AAFFFF coordenadas : X: 3229 Y: 1697
 FFFFFF 
-FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
 FFFFFF Item da combinação do selo: Proteção Divina
-FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
 FFFFFF Combinação do selo (2): The Devil Whisper  
 FFFFFF (Use com o botão direito do mouse)
 FFFFFF 
@@ -120,16 +120,16 @@ FFFFFF
 FFFFFF 
 FFFFAA << Destrave do level 320 >>
 FFFFFF 
-FFFFFF Como destravar o personagem celestial level 320?
-FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF Como destravar o personagem celestial level 280?
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
 FFFFFF 
-FFFFFF O item pode ser criado no NPC Dedekinto.
-AAFFFF O NPC está localizado no continente desconhecido.
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
 AAFFFF coordenadas : X: 3229 Y: 1697
 FFFFFF 
-FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
 FFFFFF Item da combinação do selo: Proteção Divina
-FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
 FFFFFF Combinação do selo (2): The Devil Whisper  
 FFFFFF (Use com o botão direito do mouse)
 FFFFFF 
